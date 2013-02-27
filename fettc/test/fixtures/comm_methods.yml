@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  method: MyString
+  address: MyString
+  user_id: 1
+  frequency: 1
+
+two:
+  method: MyString
+  address: MyString
+  user_id: 1
+  frequency: 1
